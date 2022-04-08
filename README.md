@@ -1,4 +1,4 @@
-# GreeterKata-Nunit-Tests
+# GreeterKata
 
 For this excersice I had to created a Database to store all the Languages and their greetings(I decided to use a Datatable to store all the languages and their greetings as it was easier to manipulate/get data using this method). I then alowed it to only return the specific Language greeting that was passed through the method! For example: Greet("english") will return "Welcome".
 
